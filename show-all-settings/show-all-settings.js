@@ -1,3 +1,5 @@
+showAllSettings();
+
 function showAllSettings() {
   var x = document.getElementsByClassName("_board_settings_link");
   if (x) {
